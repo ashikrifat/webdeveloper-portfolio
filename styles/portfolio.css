@@ -35,7 +35,8 @@ main {
     max-width: 1140px;
     margin: 0 auto;
 }
-main section{
+
+main section {
     margin-top: 130px;
 }
 
@@ -142,4 +143,12 @@ nav a {
 
 .skill-description {
     color: #757575;
+}
+
+/* resume style */
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+
 }
