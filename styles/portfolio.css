@@ -199,3 +199,6 @@ footer{
     border: 0;
     width: 100%;
 }
+.social-links a{
+    margin: 25px;
+}
